@@ -2,10 +2,10 @@
   "name": "08_next_react_app",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "next-dev": "next dev",
+    "next-build": "next build",
+    "next-start": "next start",
+    "next-lint": "next lint"
   },
   "dependencies": {
     "next": "12.0.8",
